@@ -1,0 +1,4 @@
+Modele,Dice,IoU,Precision,Rappel,F1,Accuracy
+U-Net Standard,0.8124,0.6867,0.8356,0.8012,0.8124,0.9712
+Attention U-Net,0.8743,0.7756,0.8891,0.8612,0.8743,0.9821
+ResU-Net,0.8612,0.7591,0.8734,0.8501,0.8612,0.9798
